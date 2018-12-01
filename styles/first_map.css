@@ -1,0 +1,21 @@
+
+#mapid {
+  height: 400px;
+  width: 60%;
+  margin: auto;
+}
+
+h1 {
+  text-align: left;
+}
+
+p {
+  text-align:left;
+  margin: auto;
+  padding-top:
+}
+body {
+  background: #D7EDFF;
+}
+
+@media screen and (max-width: 700px) {
