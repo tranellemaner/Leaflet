@@ -7,15 +7,21 @@
 
 h1 {
   text-align: left;
+  align-content: center;
 }
 
 p {
   text-align:left;
   margin: auto;
-  padding-top:
 }
 body {
   background: #D7EDFF;
+}
+
+article {
+  margin: auto;
+  align-items: center;
+  text-align: center;
 }
 
 @media screen and (max-width: 500px) {
@@ -23,3 +29,4 @@ body {
     margin-left: 0px;
     margin-right: 0px;
   }
+}
